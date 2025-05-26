@@ -44,7 +44,7 @@ nermai-ai/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/nermai-ai.git
+   git clone https://github.com/akuprof/nermai-ai.git
    cd nermai-ai
 
 Backend Setup
@@ -82,7 +82,7 @@ git commit -m "Initial commit"
 
 
 Push to GitHub
-git remote add origin https://github.com/yourusername/nermai-ai.git
+git remote add origin https://github.com/akuprof/nermai-ai.git
 git branch -M main
 git push -u origin main
 
@@ -295,7 +295,7 @@ Give you a video tutorial to build it?
 
 Prepare a deployment-ready version for hosting?
 
-Let me know how you'd like to proceed — I can also provide full code templates if you’re ready.
+Let me know how you'd like to proceed — I can also provide full code etemplates if you’re ready.
 
 
 
@@ -535,7 +535,7 @@ Edit
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/nermai-ai.git
+   git clone https://github.com/akuprof/nermai-ai.git
    cd nermai-ai
 Backend Setup
 
@@ -579,7 +579,7 @@ Navigate to GitHub and create a new repository named nermai-ai.
 bash
 Copy
 Edit
-git remote add origin https://github.com/yourusername/nermai-ai.git
+git remote add origin https://github.com/akuprof/nermai-ai.git
 git branch -M main
 git push -u origin main
 4. Deploy Frontend
